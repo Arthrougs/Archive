@@ -1,0 +1,13 @@
+{
+  "name": "archive-bot",
+  "version": "1.0.0",
+  "description": "My own Discord bot",
+  "main": "bot.js",
+  "author": "Ehrem",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "google-auth-library": "^0.11.0",
+    "googleapis": "^22.2.0",
+    "winston": "^2.4.0"
+  }
+}
